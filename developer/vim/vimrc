@@ -1,0 +1,17 @@
+:set fenc=utf-8
+
+:set tabstop=4
+:set shiftwidth=4
+:set expandtab
+:set nu
+
+"high light current line"
+:set cursorline
+
+"high light current column"
+":set cursorcolumn"
+
+set hlsearch
+
+
+

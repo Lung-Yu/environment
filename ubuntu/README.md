@@ -4,12 +4,13 @@
 > - Ubuntu 16.04 LTS (Xenial Xerus)
 > - Ubuntu 18.04 LTS (Bionic Beaver)
 > - Ubuntu 20.04 LTS (Focal Fossa)
+> - Ubuntu 24.04 LTS (Noble Numbat) (部分腳本已驗證)
 > 
 > **硬體相容性**:
 > - 主要在 Intel x86_64 架構處理器上測試
 > - 部分 NVIDIA GPU 相關腳本需要特定型號的 NVIDIA 顯卡
 > 
-> 這些腳本大多於2016-2020年間開發，部分腳本可能不相容於較新的 Ubuntu 22.04 LTS (Jammy Jellyfish) 或 24.04 LTS (Noble Numbat) 版本，也未在 ARM 架構處理器上測試過。
+> 這些腳本大多於2016-2020年間開發，部分腳本已在 Ubuntu 24.04 LTS (Noble Numbat) 版本上驗證，但大多數未在 ARM 架構處理器上測試過。
 
 這個目錄包含各種 Ubuntu 環境下的自動化安裝腳本，涵蓋開發環境設置、驅動安裝、Docker配置、深度學習框架和其他實用工具。這些腳本大多於2016-2020年間開發，並針對Ubuntu 16.04 ~ 20.04版本進行過測試。
 

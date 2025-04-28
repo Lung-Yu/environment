@@ -1,3 +1,6 @@
+#!/bin/bash
+# Docker installation script
+# Verified in Ubuntu 24.04 LTS
 
 #update docker version
 sudo curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo apt-key add -
